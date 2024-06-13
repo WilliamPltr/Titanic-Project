@@ -1,24 +1,44 @@
-# Titanic-Project
-2024-June Project in the class "Programming For Data Science"
+# 🚢 Titanic Prediction Project
 
-Welcome to our program's guide !
+### 📅 Programming For Data Science - June 2024
 
-This guide will help you to run each section of the program.
+Welcome to our Titanic Prediction Project! This guide will assist you in running each section of the program efficiently.
 
-In the folder you received, you can find 2 python files, one Module.py, and one Main.py.
+### 📁 Project Structure
 
-In order to execute them, open them in a python environment, and you should run the Main.py file from you Windows PowerShell, with, Main.py as the first argument.
+In the provided folder, you will find two Python files:
+- `Module.py`
+- `Main.py`
 
-For the second argument it is intuitive write :
-- "Task1" to execute the task 1
-- "Task2" to execute the task 2
-- "Task3.1" to execute the task the first point of task 3
-- "Task3.2" to execute the task the second point of task 3
-- "Task3.3" to execute the task the third point of task 3
-- "Task3.4" to execute the task the fourth point of task 3
-- "Task4" to execute the task 4
-(we didn't divide the task 4 because it's better for a neural network to not be executed by part)
+### 🛠️ Running the Program
 
-For example, if you want the correlation matrix, type >Python3 Main.py Task3.3
+To execute the program, follow these steps:
 
-You just have to enjoy the work !
+1. Open a Python environment.
+2. Run the `Main.py` file from your Windows PowerShell.
+
+### 💻 Command Line Arguments
+
+When running `Main.py`, you need to specify a task as the second argument. Here are the available tasks:
+
+- **Task1**: Execute Task 1
+- **Task2**: Execute Task 2
+- **Task3.1**: Execute the first part of Task 3
+- **Task3.2**: Execute the second part of Task 3
+- **Task3.3**: Execute the third part of Task 3 (e.g., correlation matrix)
+- **Task3.4**: Execute the fourth part of Task 3
+- **Task4**: Execute Task 4 (Note: Task 4 is a neural network and should be executed as a whole)
+
+### 🔧 Example Command
+
+To run the correlation matrix (Task 3.3), use the following command in PowerShell:
+```sh
+> python Main.py Task3.3
+```
+
+
+🎉 Enjoy the Work!
+
+Feel free to explore and enjoy the project. If you have any questions or need further assistance, don't hesitate to ask.
+
+This guide should make it easy for you to navigate and run each part of the Titanic Prediction Project. Happy coding! 👨‍💻👩‍💻
